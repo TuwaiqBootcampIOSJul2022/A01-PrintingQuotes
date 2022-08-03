@@ -1,0 +1,15 @@
+//
+//  main.swift
+//  Raneemreadline
+//
+//  Created by Raneem Alkahtani on 04/08/2022.
+//
+
+import Foundation
+
+print("What is the quote?")
+let qoute = readLine()
+print("Who said it?")
+let name = readLine()
+print("\(name!) says, \(qoute!).")
+

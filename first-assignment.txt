@@ -1,0 +1,13 @@
+Faisal Almutairi
+
+import Foundation
+
+print("What is the quote?")
+
+    var quote = readLine()
+
+print("Who said it?")
+
+    var author = readLine()
+
+print("\(author!)" + " say, " + "\"\(quote!)\"")

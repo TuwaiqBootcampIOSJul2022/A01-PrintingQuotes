@@ -1,0 +1,11 @@
+import Foundation
+
+ print("Marcus Cicero    ","A room without books is like a body without a soul")
+
+ if let response = readLine() {
+    print("output :",response)
+ } else {
+    print()
+ }
+
+

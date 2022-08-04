@@ -1,0 +1,11 @@
+
+import Foundation
+
+print("What is the quote?")
+
+var name1 = readLine()
+print("Who said it ?")
+
+var name2 = readLine()
+print(name2!, terminator: "")
+print(name1!)

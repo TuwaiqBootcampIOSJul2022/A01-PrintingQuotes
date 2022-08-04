@@ -1,0 +1,5 @@
+print("What is the quote ? ", terminator: "")
+let quote = readLine()
+print("Who said it ? ", terminator: "")
+let author = readLine()
+print("\(author) Says, \(quote)!")

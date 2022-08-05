@@ -15,4 +15,4 @@ print("Who said it?")
 
 var name = readLine()
 
-print("\(name!),\(quote!)")
+print("\(name!)says,\(quote!)")
